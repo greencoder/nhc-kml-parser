@@ -1,0 +1,4346 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -26.4, 
+                    10.4
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "", 
+                "intensity_kph": 37, 
+                "intensity_mph": 23, 
+                "number": 3, 
+                "longitude": -26.4, 
+                "datetime": "2014-07-27T06:00:00+00:00", 
+                "pressure": 1014, 
+                "latitude": 10.4, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -27.6, 
+                    10.4
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "", 
+                "intensity_kph": 37, 
+                "intensity_mph": 23, 
+                "number": 3, 
+                "longitude": -27.6, 
+                "datetime": "2014-07-27T12:00:00+00:00", 
+                "pressure": 1014, 
+                "latitude": 10.4, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -28.8, 
+                    10.3
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "", 
+                "intensity_kph": 37, 
+                "intensity_mph": 23, 
+                "number": 3, 
+                "longitude": -28.8, 
+                "datetime": "2014-07-27T18:00:00+00:00", 
+                "pressure": 1014, 
+                "latitude": 10.3, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -30.0, 
+                    10.2
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "", 
+                "intensity_kph": 37, 
+                "intensity_mph": 23, 
+                "number": 3, 
+                "longitude": -30.0, 
+                "datetime": "2014-07-28T00:00:00+00:00", 
+                "pressure": 1014, 
+                "latitude": 10.2, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -31.3, 
+                    10.1
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 37, 
+                "intensity_mph": 23, 
+                "number": 3, 
+                "longitude": -31.3, 
+                "datetime": "2014-07-28T06:00:00+00:00", 
+                "pressure": 1013, 
+                "latitude": 10.1, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -32.5, 
+                    9.9
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 37, 
+                "intensity_mph": 23, 
+                "number": 3, 
+                "longitude": -32.5, 
+                "datetime": "2014-07-28T12:00:00+00:00", 
+                "pressure": 1011, 
+                "latitude": 9.9, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -33.9, 
+                    9.7
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 37, 
+                "intensity_mph": 23, 
+                "number": 3, 
+                "longitude": -33.9, 
+                "datetime": "2014-07-28T18:00:00+00:00", 
+                "pressure": 1011, 
+                "latitude": 9.7, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -35.5, 
+                    9.6
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 46, 
+                "intensity_mph": 29, 
+                "number": 3, 
+                "longitude": -35.5, 
+                "datetime": "2014-07-29T00:00:00+00:00", 
+                "pressure": 1010, 
+                "latitude": 9.6, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -37.1, 
+                    9.6
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 56, 
+                "intensity_mph": 35, 
+                "number": 3, 
+                "longitude": -37.1, 
+                "datetime": "2014-07-29T06:00:00+00:00", 
+                "pressure": 1010, 
+                "latitude": 9.6, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -38.6, 
+                    9.5
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 56, 
+                "intensity_mph": 35, 
+                "number": 3, 
+                "longitude": -38.6, 
+                "datetime": "2014-07-29T12:00:00+00:00", 
+                "pressure": 1011, 
+                "latitude": 9.5, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -40.1, 
+                    9.5
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 56, 
+                "intensity_mph": 35, 
+                "number": 3, 
+                "longitude": -40.1, 
+                "datetime": "2014-07-29T18:00:00+00:00", 
+                "pressure": 1012, 
+                "latitude": 9.5, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -41.5, 
+                    9.6
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 56, 
+                "intensity_mph": 35, 
+                "number": 3, 
+                "longitude": -41.5, 
+                "datetime": "2014-07-30T00:00:00+00:00", 
+                "pressure": 1012, 
+                "latitude": 9.6, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -43.0, 
+                    9.7
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 56, 
+                "intensity_mph": 35, 
+                "number": 3, 
+                "longitude": -43.0, 
+                "datetime": "2014-07-30T06:00:00+00:00", 
+                "pressure": 1012, 
+                "latitude": 9.7, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -44.7, 
+                    9.8
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 56, 
+                "intensity_mph": 35, 
+                "number": 3, 
+                "longitude": -44.7, 
+                "datetime": "2014-07-30T12:00:00+00:00", 
+                "pressure": 1012, 
+                "latitude": 9.8, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -46.4, 
+                    10.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 56, 
+                "intensity_mph": 35, 
+                "number": 3, 
+                "longitude": -46.4, 
+                "datetime": "2014-07-30T18:00:00+00:00", 
+                "pressure": 1011, 
+                "latitude": 10.0, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -47.9, 
+                    10.4
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 65, 
+                "intensity_mph": 40, 
+                "number": 3, 
+                "longitude": -47.9, 
+                "datetime": "2014-07-31T00:00:00+00:00", 
+                "pressure": 1010, 
+                "latitude": 10.4, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -49.7, 
+                    10.7
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 65, 
+                "intensity_mph": 40, 
+                "number": 3, 
+                "longitude": -49.7, 
+                "datetime": "2014-07-31T06:00:00+00:00", 
+                "pressure": 1009, 
+                "latitude": 10.7, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -51.4, 
+                    11.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 74, 
+                "intensity_mph": 46, 
+                "number": 3, 
+                "longitude": -51.4, 
+                "datetime": "2014-07-31T12:00:00+00:00", 
+                "pressure": 1008, 
+                "latitude": 11.0, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.1, 
+                    11.5
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "INVEST", 
+                "intensity_kph": 74, 
+                "intensity_mph": 46, 
+                "number": 3, 
+                "longitude": -53.1, 
+                "datetime": "2014-07-31T18:00:00+00:00", 
+                "pressure": 1008, 
+                "latitude": 11.5, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -54.7, 
+                    12.1
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "BERTHA", 
+                "intensity_kph": 74, 
+                "intensity_mph": 46, 
+                "number": 3, 
+                "longitude": -54.7, 
+                "datetime": "2014-08-01T00:00:00+00:00", 
+                "pressure": 1008, 
+                "latitude": 12.1, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -56.2, 
+                    12.7
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "BERTHA", 
+                "intensity_kph": 74, 
+                "intensity_mph": 46, 
+                "number": 3, 
+                "longitude": -56.2, 
+                "datetime": "2014-08-01T06:00:00+00:00", 
+                "pressure": 1008, 
+                "latitude": 12.7, 
+                "region": "AL", 
+                "type": "track_point", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "LineString", 
+                "coordinates": [
+                    [
+                        -26.4, 
+                        10.4
+                    ], 
+                    [
+                        -27.6, 
+                        10.4
+                    ], 
+                    [
+                        -28.8, 
+                        10.3
+                    ], 
+                    [
+                        -30.0, 
+                        10.2
+                    ], 
+                    [
+                        -31.3, 
+                        10.1
+                    ], 
+                    [
+                        -32.5, 
+                        9.9
+                    ], 
+                    [
+                        -33.9, 
+                        9.7
+                    ], 
+                    [
+                        -35.5, 
+                        9.6
+                    ], 
+                    [
+                        -37.1, 
+                        9.6
+                    ], 
+                    [
+                        -38.6, 
+                        9.5
+                    ], 
+                    [
+                        -40.1, 
+                        9.5
+                    ], 
+                    [
+                        -41.5, 
+                        9.6
+                    ], 
+                    [
+                        -43.0, 
+                        9.7
+                    ], 
+                    [
+                        -44.7, 
+                        9.8
+                    ], 
+                    [
+                        -46.4, 
+                        10.0
+                    ], 
+                    [
+                        -47.9, 
+                        10.4
+                    ], 
+                    [
+                        -49.7, 
+                        10.7
+                    ], 
+                    [
+                        -51.4, 
+                        11.0
+                    ], 
+                    [
+                        -53.1, 
+                        11.5
+                    ], 
+                    [
+                        -54.7, 
+                        12.1
+                    ], 
+                    [
+                        -56.2, 
+                        12.7
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "type": "track_line", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -57.9, 
+                    13.6
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "advisory_number": "2A", 
+                "tau": "6", 
+                "timezone": "EDT", 
+                "id": "at3", 
+                "atcf_id": "AL032014", 
+                "storm_number": 3, 
+                "label": "8:00 AM Fri EDT Advisory #2A", 
+                "latitude": 13.6, 
+                "type": "forecast_track_point", 
+                "movement": "West-northwest at 17 knots (20 mph)", 
+                "direction": 292, 
+                "pressure": 1008.0, 
+                "dvlp": "Tropical Storm", 
+                "storm_name": "Tropical Storm BERTHA", 
+                "advisory_datetime": "2014-08-01T12:00:00+00:00", 
+                "tc_speed": 17, 
+                "storm_type": "TS", 
+                "wind_gust": "50 knots (60 mph)", 
+                "region": "al", 
+                "longitude": -57.9, 
+                "expected_speed": null, 
+                "max_wind": "39 knots (45 mph)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -59.6, 
+                    14.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "advisory_number": "2A", 
+                "tau": "12", 
+                "timezone": "EDT", 
+                "id": "at3", 
+                "atcf_id": "AL032014", 
+                "storm_number": 3, 
+                "label": "2:00 PM Fri EDT Advisory #2A", 
+                "latitude": 14.0, 
+                "type": "forecast_track_point", 
+                "movement": "", 
+                "direction": 9999, 
+                "pressure": 9999.0, 
+                "dvlp": "Tropical Storm", 
+                "storm_name": "Tropical Storm BERTHA", 
+                "advisory_datetime": "2014-08-01T12:00:00+00:00", 
+                "tc_speed": 9999, 
+                "storm_type": "TS", 
+                "wind_gust": "50 knots (60 mph)", 
+                "region": "al", 
+                "longitude": -59.6, 
+                "expected_speed": null, 
+                "max_wind": "40 knots (45 mph)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -63.0, 
+                    15.5
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "advisory_number": "2A", 
+                "tau": "24", 
+                "timezone": "EDT", 
+                "id": "at3", 
+                "atcf_id": "AL032014", 
+                "storm_number": 3, 
+                "label": "2:00 AM Sat EDT Advisory #2A", 
+                "latitude": 15.5, 
+                "type": "forecast_track_point", 
+                "movement": "", 
+                "direction": 9999, 
+                "pressure": 9999.0, 
+                "dvlp": "Tropical Storm", 
+                "storm_name": "Tropical Storm BERTHA", 
+                "advisory_datetime": "2014-08-01T12:00:00+00:00", 
+                "tc_speed": 9999, 
+                "storm_type": "TS", 
+                "wind_gust": "50 knots (60 mph)", 
+                "region": "al", 
+                "longitude": -63.0, 
+                "expected_speed": null, 
+                "max_wind": "40 knots (45 mph)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -66.0, 
+                    17.2
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "advisory_number": "2A", 
+                "tau": "36", 
+                "timezone": "EDT", 
+                "id": "at3", 
+                "atcf_id": "AL032014", 
+                "storm_number": 3, 
+                "label": "2:00 PM Sat EDT Advisory #2A", 
+                "latitude": 17.2, 
+                "type": "forecast_track_point", 
+                "movement": "", 
+                "direction": 9999, 
+                "pressure": 9999.0, 
+                "dvlp": "Tropical Storm", 
+                "storm_name": "Tropical Storm BERTHA", 
+                "advisory_datetime": "2014-08-01T12:00:00+00:00", 
+                "tc_speed": 9999, 
+                "storm_type": "TS", 
+                "wind_gust": "55 knots (65 mph)", 
+                "region": "al", 
+                "longitude": -66.0, 
+                "expected_speed": null, 
+                "max_wind": "45 knots (50 mph)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -68.8, 
+                    19.5
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "advisory_number": "2A", 
+                "tau": "48", 
+                "timezone": "EDT", 
+                "id": "at3", 
+                "atcf_id": "AL032014", 
+                "storm_number": 3, 
+                "label": "2:00 AM Sun EDT Advisory #2A", 
+                "latitude": 19.5, 
+                "type": "forecast_track_point", 
+                "movement": "", 
+                "direction": 9999, 
+                "pressure": 9999.0, 
+                "dvlp": "Tropical Storm", 
+                "storm_name": "Tropical Storm BERTHA", 
+                "advisory_datetime": "2014-08-01T12:00:00+00:00", 
+                "tc_speed": 9999, 
+                "storm_type": "TS", 
+                "wind_gust": "55 knots (65 mph)", 
+                "region": "al", 
+                "longitude": -68.8, 
+                "expected_speed": null, 
+                "max_wind": "45 knots (50 mph)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.5, 
+                    24.5
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "advisory_number": "2A", 
+                "tau": "72", 
+                "timezone": "EDT", 
+                "id": "at3", 
+                "atcf_id": "AL032014", 
+                "storm_number": 3, 
+                "label": "2:00 AM Mon EDT Advisory #2A", 
+                "latitude": 24.5, 
+                "type": "forecast_track_point", 
+                "movement": "", 
+                "direction": 9999, 
+                "pressure": 9999.0, 
+                "dvlp": "Tropical Storm", 
+                "storm_name": "Tropical Storm BERTHA", 
+                "advisory_datetime": "2014-08-01T12:00:00+00:00", 
+                "tc_speed": 9999, 
+                "storm_type": "TS", 
+                "wind_gust": "55 knots (65 mph)", 
+                "region": "al", 
+                "longitude": -73.5, 
+                "expected_speed": null, 
+                "max_wind": "45 knots (50 mph)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0, 
+                    29.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "advisory_number": "2A", 
+                "tau": "96", 
+                "timezone": "EDT", 
+                "id": "at3", 
+                "atcf_id": "AL032014", 
+                "storm_number": 3, 
+                "label": "2:00 AM Tue EDT Advisory #2A", 
+                "latitude": 29.0, 
+                "type": "forecast_track_point", 
+                "movement": "", 
+                "direction": 9999, 
+                "pressure": 9999.0, 
+                "dvlp": "Tropical Storm", 
+                "storm_name": "Tropical Storm BERTHA", 
+                "advisory_datetime": "2014-08-01T12:00:00+00:00", 
+                "tc_speed": 9999, 
+                "storm_type": "TS", 
+                "wind_gust": "55 knots (65 mph)", 
+                "region": "al", 
+                "longitude": -74.0, 
+                "expected_speed": null, 
+                "max_wind": "45 knots (50 mph)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -67.5, 
+                    35.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "advisory_number": "2A", 
+                "tau": "120", 
+                "timezone": "EDT", 
+                "id": "at3", 
+                "atcf_id": "AL032014", 
+                "storm_number": 3, 
+                "label": "2:00 AM Wed EDT Advisory #2A", 
+                "latitude": 35.0, 
+                "type": "forecast_track_point", 
+                "movement": "", 
+                "direction": 9999, 
+                "pressure": 9999.0, 
+                "dvlp": "Tropical Storm", 
+                "storm_name": "Tropical Storm BERTHA", 
+                "advisory_datetime": "2014-08-01T12:00:00+00:00", 
+                "tc_speed": 9999, 
+                "storm_type": "TS", 
+                "wind_gust": "55 knots (65 mph)", 
+                "region": "al", 
+                "longitude": -67.5, 
+                "expected_speed": null, 
+                "max_wind": "45 knots (50 mph)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "LineString", 
+                "coordinates": [
+                    [
+                        -57.9, 
+                        13.6
+                    ], 
+                    [
+                        -59.6, 
+                        14.0
+                    ], 
+                    [
+                        -63.0, 
+                        15.5
+                    ], 
+                    [
+                        -66.0, 
+                        17.2
+                    ], 
+                    [
+                        -68.8, 
+                        19.5
+                    ], 
+                    [
+                        -73.5, 
+                        24.5
+                    ], 
+                    [
+                        -74.0, 
+                        29.0
+                    ], 
+                    [
+                        -67.5, 
+                        35.0
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "type": "forecast_line", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -64.774139, 
+                            32.130527
+                        ], 
+                        [
+                            -65.129356, 
+                            31.846287
+                        ], 
+                        [
+                            -65.445419, 
+                            31.620298
+                        ], 
+                        [
+                            -65.722878, 
+                            31.437313
+                        ], 
+                        [
+                            -65.972061, 
+                            31.280708
+                        ], 
+                        [
+                            -66.20462, 
+                            31.137531
+                        ], 
+                        [
+                            -66.428207, 
+                            31.000427
+                        ], 
+                        [
+                            -66.645706, 
+                            30.866648
+                        ], 
+                        [
+                            -66.857155, 
+                            30.735853
+                        ], 
+                        [
+                            -67.062347, 
+                            30.608051
+                        ], 
+                        [
+                            -67.262535, 
+                            30.482365
+                        ], 
+                        [
+                            -67.460518, 
+                            30.356947
+                        ], 
+                        [
+                            -67.659271, 
+                            30.229851
+                        ], 
+                        [
+                            -67.860413, 
+                            30.100014
+                        ], 
+                        [
+                            -68.063568, 
+                            29.967594
+                        ], 
+                        [
+                            -68.267075, 
+                            29.833591
+                        ], 
+                        [
+                            -68.468872, 
+                            29.699282
+                        ], 
+                        [
+                            -68.666893, 
+                            29.565964
+                        ], 
+                        [
+                            -68.859192, 
+                            29.434889
+                        ], 
+                        [
+                            -69.044281, 
+                            29.307026
+                        ], 
+                        [
+                            -69.221779, 
+                            29.182533
+                        ], 
+                        [
+                            -69.392838, 
+                            29.060524
+                        ], 
+                        [
+                            -69.559418, 
+                            28.939577
+                        ], 
+                        [
+                            -69.722786, 
+                            28.818808
+                        ], 
+                        [
+                            -69.882622, 
+                            28.69849
+                        ], 
+                        [
+                            -70.037552, 
+                            28.579597
+                        ], 
+                        [
+                            -70.186554, 
+                            28.462732
+                        ], 
+                        [
+                            -70.32975, 
+                            28.347622
+                        ], 
+                        [
+                            -70.46788, 
+                            28.233513
+                        ], 
+                        [
+                            -70.601372, 
+                            28.119951
+                        ], 
+                        [
+                            -70.729866, 
+                            28.007092
+                        ], 
+                        [
+                            -70.852448, 
+                            27.895586
+                        ], 
+                        [
+                            -70.968002, 
+                            27.786232
+                        ], 
+                        [
+                            -71.075699, 
+                            27.679455
+                        ], 
+                        [
+                            -71.175491, 
+                            27.574646
+                        ], 
+                        [
+                            -71.268311, 
+                            27.47002
+                        ], 
+                        [
+                            -71.355247, 
+                            27.363636
+                        ], 
+                        [
+                            -71.43631, 
+                            27.254932
+                        ], 
+                        [
+                            -71.509766, 
+                            27.145275
+                        ], 
+                        [
+                            -71.572868, 
+                            27.036913
+                        ], 
+                        [
+                            -71.623352, 
+                            26.931309
+                        ], 
+                        [
+                            -71.660255, 
+                            26.828279
+                        ], 
+                        [
+                            -71.683716, 
+                            26.725975
+                        ], 
+                        [
+                            -71.694183, 
+                            26.620861
+                        ], 
+                        [
+                            -71.691948, 
+                            26.507763
+                        ], 
+                        [
+                            -71.677223, 
+                            26.381166
+                        ], 
+                        [
+                            -71.650665, 
+                            26.237968
+                        ], 
+                        [
+                            -71.613861, 
+                            26.079872
+                        ], 
+                        [
+                            -71.569267, 
+                            25.913116
+                        ], 
+                        [
+                            -71.519577, 
+                            25.745411
+                        ], 
+                        [
+                            -71.466713, 
+                            25.582375
+                        ], 
+                        [
+                            -71.411392, 
+                            25.425982
+                        ], 
+                        [
+                            -71.353165, 
+                            25.275463
+                        ], 
+                        [
+                            -71.290985, 
+                            25.129055
+                        ], 
+                        [
+                            -71.223557, 
+                            24.984941
+                        ], 
+                        [
+                            -71.149658, 
+                            24.841349
+                        ], 
+                        [
+                            -71.068535, 
+                            24.696819
+                        ], 
+                        [
+                            -70.980576, 
+                            24.551067
+                        ], 
+                        [
+                            -70.887573, 
+                            24.405657
+                        ], 
+                        [
+                            -70.79213, 
+                            24.263327
+                        ], 
+                        [
+                            -70.696304, 
+                            24.12619
+                        ], 
+                        [
+                            -70.6007, 
+                            23.994312
+                        ], 
+                        [
+                            -70.50444, 
+                            23.865799
+                        ], 
+                        [
+                            -70.406075, 
+                            23.738064
+                        ], 
+                        [
+                            -70.304245, 
+                            23.60891
+                        ], 
+                        [
+                            -70.197899, 
+                            23.476795
+                        ], 
+                        [
+                            -70.086342, 
+                            23.340759
+                        ], 
+                        [
+                            -69.969505, 
+                            23.200607
+                        ], 
+                        [
+                            -69.848358, 
+                            23.057329
+                        ], 
+                        [
+                            -69.72493, 
+                            22.913126
+                        ], 
+                        [
+                            -69.60173, 
+                            22.770756
+                        ], 
+                        [
+                            -69.48085, 
+                            22.632484
+                        ], 
+                        [
+                            -69.363281, 
+                            22.49931
+                        ], 
+                        [
+                            -69.248932, 
+                            22.370926
+                        ], 
+                        [
+                            -69.137085, 
+                            22.246302
+                        ], 
+                        [
+                            -69.026993, 
+                            22.124359
+                        ], 
+                        [
+                            -68.918221, 
+                            22.004395
+                        ], 
+                        [
+                            -68.810631, 
+                            21.886097
+                        ], 
+                        [
+                            -68.7043, 
+                            21.769421
+                        ], 
+                        [
+                            -68.599388, 
+                            21.654425
+                        ], 
+                        [
+                            -68.496094, 
+                            21.541197
+                        ], 
+                        [
+                            -68.394554, 
+                            21.4298
+                        ], 
+                        [
+                            -68.29483, 
+                            21.320171
+                        ], 
+                        [
+                            -68.196716, 
+                            21.21195
+                        ], 
+                        [
+                            -68.099594, 
+                            21.104332
+                        ], 
+                        [
+                            -68.002457, 
+                            20.996059
+                        ], 
+                        [
+                            -67.904221, 
+                            20.885798
+                        ], 
+                        [
+                            -67.804291, 
+                            20.772757
+                        ], 
+                        [
+                            -67.702835, 
+                            20.657124
+                        ], 
+                        [
+                            -67.600555, 
+                            20.539814
+                        ], 
+                        [
+                            -67.497917, 
+                            20.421625
+                        ], 
+                        [
+                            -67.394562, 
+                            20.30254
+                        ], 
+                        [
+                            -67.289459, 
+                            20.181864
+                        ], 
+                        [
+                            -67.181854, 
+                            20.059168
+                        ], 
+                        [
+                            -67.072067, 
+                            19.935196
+                        ], 
+                        [
+                            -66.961685, 
+                            19.811991
+                        ], 
+                        [
+                            -66.852989, 
+                            19.692238
+                        ], 
+                        [
+                            -66.748108, 
+                            19.57831
+                        ], 
+                        [
+                            -66.648193, 
+                            19.47147
+                        ], 
+                        [
+                            -66.553017, 
+                            19.371475
+                        ], 
+                        [
+                            -66.461075, 
+                            19.276754
+                        ], 
+                        [
+                            -66.370308, 
+                            19.185167
+                        ], 
+                        [
+                            -66.279076, 
+                            19.094967
+                        ], 
+                        [
+                            -66.186661, 
+                            19.005344
+                        ], 
+                        [
+                            -66.09314, 
+                            18.916306
+                        ], 
+                        [
+                            -65.998901, 
+                            18.828127
+                        ], 
+                        [
+                            -65.904106, 
+                            18.740917
+                        ], 
+                        [
+                            -65.808609, 
+                            18.654465
+                        ], 
+                        [
+                            -65.71196, 
+                            18.568287
+                        ], 
+                        [
+                            -65.613541, 
+                            18.481747
+                        ], 
+                        [
+                            -65.512589, 
+                            18.394133
+                        ], 
+                        [
+                            -65.408432, 
+                            18.304802
+                        ], 
+                        [
+                            -65.300735, 
+                            18.213457
+                        ], 
+                        [
+                            -65.18998, 
+                            18.120527
+                        ], 
+                        [
+                            -65.077805, 
+                            18.027407
+                        ], 
+                        [
+                            -64.966721, 
+                            17.936213
+                        ], 
+                        [
+                            -64.859039, 
+                            17.848951
+                        ], 
+                        [
+                            -64.755737, 
+                            17.766489
+                        ], 
+                        [
+                            -64.655731, 
+                            17.68804
+                        ], 
+                        [
+                            -64.556526, 
+                            17.611614
+                        ], 
+                        [
+                            -64.45562, 
+                            17.535194
+                        ], 
+                        [
+                            -64.351944, 
+                            17.457859
+                        ], 
+                        [
+                            -64.246208, 
+                            17.380089
+                        ], 
+                        [
+                            -64.140198, 
+                            17.303205
+                        ], 
+                        [
+                            -64.035538, 
+                            17.228405
+                        ], 
+                        [
+                            -63.932922, 
+                            17.156118
+                        ], 
+                        [
+                            -63.832024, 
+                            17.08601
+                        ], 
+                        [
+                            -63.732174, 
+                            17.017466
+                        ], 
+                        [
+                            -63.632874, 
+                            16.950035
+                        ], 
+                        [
+                            -63.533833, 
+                            16.883469
+                        ], 
+                        [
+                            -63.434685, 
+                            16.817493
+                        ], 
+                        [
+                            -63.334839, 
+                            16.751715
+                        ], 
+                        [
+                            -63.23381, 
+                            16.685781
+                        ], 
+                        [
+                            -63.131504, 
+                            16.619598
+                        ], 
+                        [
+                            -63.028259, 
+                            16.553333
+                        ], 
+                        [
+                            -62.924767, 
+                            16.487349
+                        ], 
+                        [
+                            -62.822071, 
+                            16.422245
+                        ], 
+                        [
+                            -62.721607, 
+                            16.358891
+                        ], 
+                        [
+                            -62.624832, 
+                            16.298204
+                        ], 
+                        [
+                            -62.532585, 
+                            16.240738
+                        ], 
+                        [
+                            -62.444691, 
+                            16.186432
+                        ], 
+                        [
+                            -62.360176, 
+                            16.134697
+                        ], 
+                        [
+                            -62.277733, 
+                            16.084736
+                        ], 
+                        [
+                            -62.196121, 
+                            16.035765
+                        ], 
+                        [
+                            -62.114307, 
+                            15.987165
+                        ], 
+                        [
+                            -62.03167, 
+                            15.93854
+                        ], 
+                        [
+                            -61.948101, 
+                            15.889797
+                        ], 
+                        [
+                            -61.864098, 
+                            15.841146
+                        ], 
+                        [
+                            -61.780464, 
+                            15.792984
+                        ], 
+                        [
+                            -61.69799, 
+                            15.745722
+                        ], 
+                        [
+                            -61.617157, 
+                            15.699631
+                        ], 
+                        [
+                            -61.537983, 
+                            15.654741
+                        ], 
+                        [
+                            -61.459965, 
+                            15.610817
+                        ], 
+                        [
+                            -61.382286, 
+                            15.567411
+                        ], 
+                        [
+                            -61.304108, 
+                            15.524049
+                        ], 
+                        [
+                            -61.225002, 
+                            15.480429
+                        ], 
+                        [
+                            -61.145004, 
+                            15.436516
+                        ], 
+                        [
+                            -61.064365, 
+                            15.392422
+                        ], 
+                        [
+                            -60.983177, 
+                            15.348217
+                        ], 
+                        [
+                            -60.901222, 
+                            15.303823
+                        ], 
+                        [
+                            -60.818245, 
+                            15.259113
+                        ], 
+                        [
+                            -60.734303, 
+                            15.214087
+                        ], 
+                        [
+                            -60.649822, 
+                            15.168923
+                        ], 
+                        [
+                            -60.565315, 
+                            15.123871
+                        ], 
+                        [
+                            -60.481094, 
+                            15.079117
+                        ], 
+                        [
+                            -60.397346, 
+                            15.03478
+                        ], 
+                        [
+                            -60.314316, 
+                            14.990988
+                        ], 
+                        [
+                            -60.232338, 
+                            14.947889
+                        ], 
+                        [
+                            -60.151649, 
+                            14.90559
+                        ], 
+                        [
+                            -60.072277, 
+                            14.864109
+                        ], 
+                        [
+                            -59.994164, 
+                            14.823429
+                        ], 
+                        [
+                            -59.917377, 
+                            14.783578
+                        ], 
+                        [
+                            -59.842121, 
+                            14.744635
+                        ], 
+                        [
+                            -59.7686, 
+                            14.706682
+                        ], 
+                        [
+                            -59.696869, 
+                            14.669751
+                        ], 
+                        [
+                            -59.626869, 
+                            14.633832
+                        ], 
+                        [
+                            -59.558502, 
+                            14.598885
+                        ], 
+                        [
+                            -59.491592, 
+                            14.564818
+                        ], 
+                        [
+                            -59.425781, 
+                            14.531475
+                        ], 
+                        [
+                            -59.360569, 
+                            14.498657
+                        ], 
+                        [
+                            -59.295448, 
+                            14.466194
+                        ], 
+                        [
+                            -59.23019, 
+                            14.43399
+                        ], 
+                        [
+                            -59.164902, 
+                            14.402062
+                        ], 
+                        [
+                            -59.100021, 
+                            14.370548
+                        ], 
+                        [
+                            -59.036217, 
+                            14.339715
+                        ], 
+                        [
+                            -58.974186, 
+                            14.309936
+                        ], 
+                        [
+                            -58.914436, 
+                            14.28157
+                        ], 
+                        [
+                            -58.857109, 
+                            14.254829
+                        ], 
+                        [
+                            -58.801926, 
+                            14.229662
+                        ], 
+                        [
+                            -58.748367, 
+                            14.205791
+                        ], 
+                        [
+                            -58.695869, 
+                            14.182839
+                        ], 
+                        [
+                            -58.644089, 
+                            14.160504
+                        ], 
+                        [
+                            -58.592957, 
+                            14.138672
+                        ], 
+                        [
+                            -58.542713, 
+                            14.117447
+                        ], 
+                        [
+                            -58.493698, 
+                            14.097058
+                        ], 
+                        [
+                            -58.446217, 
+                            14.077719
+                        ], 
+                        [
+                            -58.400288, 
+                            14.059484
+                        ], 
+                        [
+                            -58.355698, 
+                            14.042217
+                        ], 
+                        [
+                            -58.312092, 
+                            14.025672
+                        ], 
+                        [
+                            -58.269222, 
+                            14.009627
+                        ], 
+                        [
+                            -58.227077, 
+                            13.993999
+                        ], 
+                        [
+                            -58.185852, 
+                            13.978844
+                        ], 
+                        [
+                            -58.145752, 
+                            13.964282
+                        ], 
+                        [
+                            -58.106762, 
+                            13.950372
+                        ], 
+                        [
+                            -58.068604, 
+                            13.937042
+                        ], 
+                        [
+                            -58.030849, 
+                            13.924117
+                        ], 
+                        [
+                            -57.99313, 
+                            13.91138
+                        ], 
+                        [
+                            -57.955261, 
+                            13.898615
+                        ], 
+                        [
+                            -57.917259, 
+                            13.885561
+                        ], 
+                        [
+                            -57.879269, 
+                            13.871811
+                        ], 
+                        [
+                            -57.841618, 
+                            13.856734
+                        ], 
+                        [
+                            -57.804829, 
+                            13.839517
+                        ], 
+                        [
+                            -57.769672, 
+                            13.81932
+                        ], 
+                        [
+                            -57.73711, 
+                            13.795506
+                        ], 
+                        [
+                            -57.708138, 
+                            13.767817
+                        ], 
+                        [
+                            -57.683662, 
+                            13.736409
+                        ], 
+                        [
+                            -57.664425, 
+                            13.701793
+                        ], 
+                        [
+                            -57.650963, 
+                            13.664714
+                        ], 
+                        [
+                            -57.643623, 
+                            13.626052
+                        ], 
+                        [
+                            -57.642609, 
+                            13.586753
+                        ], 
+                        [
+                            -57.647926, 
+                            13.547783
+                        ], 
+                        [
+                            -57.659439, 
+                            13.5101
+                        ], 
+                        [
+                            -57.676884, 
+                            13.474627
+                        ], 
+                        [
+                            -57.699844, 
+                            13.44222
+                        ], 
+                        [
+                            -57.727806, 
+                            13.41361
+                        ], 
+                        [
+                            -57.760204, 
+                            13.389328
+                        ], 
+                        [
+                            -57.796463, 
+                            13.369593
+                        ], 
+                        [
+                            -57.836006, 
+                            13.354214
+                        ], 
+                        [
+                            -57.878235, 
+                            13.342598
+                        ], 
+                        [
+                            -57.922539, 
+                            13.333858
+                        ], 
+                        [
+                            -57.968342, 
+                            13.327051
+                        ], 
+                        [
+                            -58.015198, 
+                            13.321398
+                        ], 
+                        [
+                            -58.06295, 
+                            13.316417
+                        ], 
+                        [
+                            -58.111809, 
+                            13.311915
+                        ], 
+                        [
+                            -58.162342, 
+                            13.307899
+                        ], 
+                        [
+                            -58.215279, 
+                            13.30444
+                        ], 
+                        [
+                            -58.27124, 
+                            13.301579
+                        ], 
+                        [
+                            -58.330448, 
+                            13.29932
+                        ], 
+                        [
+                            -58.392628, 
+                            13.297689
+                        ], 
+                        [
+                            -58.4571, 
+                            13.296814
+                        ], 
+                        [
+                            -58.523071, 
+                            13.296935
+                        ], 
+                        [
+                            -58.589863, 
+                            13.298326
+                        ], 
+                        [
+                            -58.657082, 
+                            13.301134
+                        ], 
+                        [
+                            -58.724548, 
+                            13.305286
+                        ], 
+                        [
+                            -58.792297, 
+                            13.310541
+                        ], 
+                        [
+                            -58.860596, 
+                            13.316678
+                        ], 
+                        [
+                            -58.929947, 
+                            13.323697
+                        ], 
+                        [
+                            -59.001129, 
+                            13.331887
+                        ], 
+                        [
+                            -59.074913, 
+                            13.34169
+                        ], 
+                        [
+                            -59.151821, 
+                            13.353447
+                        ], 
+                        [
+                            -59.231865, 
+                            13.367197
+                        ], 
+                        [
+                            -59.314583, 
+                            13.382664
+                        ], 
+                        [
+                            -59.399284, 
+                            13.399419
+                        ], 
+                        [
+                            -59.485306, 
+                            13.417128
+                        ], 
+                        [
+                            -59.572201, 
+                            13.435677
+                        ], 
+                        [
+                            -59.659676, 
+                            13.455168
+                        ], 
+                        [
+                            -59.747581, 
+                            13.475777
+                        ], 
+                        [
+                            -59.835808, 
+                            13.497604
+                        ], 
+                        [
+                            -59.924282, 
+                            13.520622
+                        ], 
+                        [
+                            -60.013023, 
+                            13.544721
+                        ], 
+                        [
+                            -60.102234, 
+                            13.569807
+                        ], 
+                        [
+                            -60.192261, 
+                            13.595858
+                        ], 
+                        [
+                            -60.283447, 
+                            13.622873
+                        ], 
+                        [
+                            -60.375748, 
+                            13.650774
+                        ], 
+                        [
+                            -60.468624, 
+                            13.679356
+                        ], 
+                        [
+                            -60.561295, 
+                            13.708347
+                        ], 
+                        [
+                            -60.653385, 
+                            13.737591
+                        ], 
+                        [
+                            -60.745384, 
+                            13.767191
+                        ], 
+                        [
+                            -60.838722, 
+                            13.79756
+                        ], 
+                        [
+                            -60.935257, 
+                            13.829285
+                        ], 
+                        [
+                            -61.036392, 
+                            13.862863
+                        ], 
+                        [
+                            -61.142548, 
+                            13.89848
+                        ], 
+                        [
+                            -61.253082, 
+                            13.935965
+                        ], 
+                        [
+                            -61.366753, 
+                            13.97492
+                        ], 
+                        [
+                            -61.482159, 
+                            14.01487
+                        ], 
+                        [
+                            -61.597923, 
+                            14.055329
+                        ], 
+                        [
+                            -61.712883, 
+                            14.095858
+                        ], 
+                        [
+                            -61.826305, 
+                            14.136156
+                        ], 
+                        [
+                            -61.938248, 
+                            14.176208
+                        ], 
+                        [
+                            -62.049576, 
+                            14.216307
+                        ], 
+                        [
+                            -62.16153, 
+                            14.256909
+                        ], 
+                        [
+                            -62.27512, 
+                            14.298393
+                        ], 
+                        [
+                            -62.3908, 
+                            14.340928
+                        ], 
+                        [
+                            -62.508518, 
+                            14.384497
+                        ], 
+                        [
+                            -62.627953, 
+                            14.428995
+                        ], 
+                        [
+                            -62.748589, 
+                            14.474276
+                        ], 
+                        [
+                            -62.869812, 
+                            14.520134
+                        ], 
+                        [
+                            -62.991066, 
+                            14.566348
+                        ], 
+                        [
+                            -63.112095, 
+                            14.612761
+                        ], 
+                        [
+                            -63.232887, 
+                            14.659325
+                        ], 
+                        [
+                            -63.353451, 
+                            14.706032
+                        ], 
+                        [
+                            -63.473591, 
+                            14.752815
+                        ], 
+                        [
+                            -63.592991, 
+                            14.799536
+                        ], 
+                        [
+                            -63.711517, 
+                            14.846102
+                        ], 
+                        [
+                            -63.829575, 
+                            14.892658
+                        ], 
+                        [
+                            -63.948318, 
+                            14.939665
+                        ], 
+                        [
+                            -64.069496, 
+                            14.987845
+                        ], 
+                        [
+                            -64.194939, 
+                            15.037995
+                        ], 
+                        [
+                            -64.325989, 
+                            15.090769
+                        ], 
+                        [
+                            -64.463112, 
+                            15.146548
+                        ], 
+                        [
+                            -64.606117, 
+                            15.205498
+                        ], 
+                        [
+                            -64.754776, 
+                            15.267784
+                        ], 
+                        [
+                            -64.909393, 
+                            15.333801
+                        ], 
+                        [
+                            -65.070587, 
+                            15.40407
+                        ], 
+                        [
+                            -65.238205, 
+                            15.478736
+                        ], 
+                        [
+                            -65.410217, 
+                            15.557065
+                        ], 
+                        [
+                            -65.582855, 
+                            15.637478
+                        ], 
+                        [
+                            -65.752289, 
+                            15.718269
+                        ], 
+                        [
+                            -65.916405, 
+                            15.798473
+                        ], 
+                        [
+                            -66.0756, 
+                            15.878214
+                        ], 
+                        [
+                            -66.232018, 
+                            15.958429
+                        ], 
+                        [
+                            -66.388397, 
+                            16.04035
+                        ], 
+                        [
+                            -66.54715, 
+                            16.125092
+                        ], 
+                        [
+                            -66.709763, 
+                            16.213354
+                        ], 
+                        [
+                            -66.876427, 
+                            16.305241
+                        ], 
+                        [
+                            -67.046135, 
+                            16.400265
+                        ], 
+                        [
+                            -67.217285, 
+                            16.4977
+                        ], 
+                        [
+                            -67.388542, 
+                            16.597027
+                        ], 
+                        [
+                            -67.559334, 
+                            16.69825
+                        ], 
+                        [
+                            -67.729935, 
+                            16.801889
+                        ], 
+                        [
+                            -67.901093, 
+                            16.908762
+                        ], 
+                        [
+                            -68.073639, 
+                            17.019701
+                        ], 
+                        [
+                            -68.248001, 
+                            17.135212
+                        ], 
+                        [
+                            -68.423813, 
+                            17.255123
+                        ], 
+                        [
+                            -68.599739, 
+                            17.378471
+                        ], 
+                        [
+                            -68.774124, 
+                            17.503942
+                        ], 
+                        [
+                            -68.946228, 
+                            17.630821
+                        ], 
+                        [
+                            -69.117188, 
+                            17.759743
+                        ], 
+                        [
+                            -69.289482, 
+                            17.892307
+                        ], 
+                        [
+                            -69.464905, 
+                            18.02953
+                        ], 
+                        [
+                            -69.642776, 
+                            18.170422
+                        ], 
+                        [
+                            -69.820175, 
+                            18.312178
+                        ], 
+                        [
+                            -69.994148, 
+                            18.451962
+                        ], 
+                        [
+                            -70.163925, 
+                            18.588722
+                        ], 
+                        [
+                            -70.331261, 
+                            18.723568
+                        ], 
+                        [
+                            -70.4991, 
+                            18.858713
+                        ], 
+                        [
+                            -70.669968, 
+                            18.99617
+                        ], 
+                        [
+                            -70.845261, 
+                            19.137154
+                        ], 
+                        [
+                            -71.025551, 
+                            19.28229
+                        ], 
+                        [
+                            -71.211349, 
+                            19.432192
+                        ], 
+                        [
+                            -71.403656, 
+                            19.587906
+                        ], 
+                        [
+                            -71.603836, 
+                            19.750782
+                        ], 
+                        [
+                            -71.812561, 
+                            19.921608
+                        ], 
+                        [
+                            -72.028458, 
+                            20.099506
+                        ], 
+                        [
+                            -72.247742, 
+                            20.281574
+                        ], 
+                        [
+                            -72.465469, 
+                            20.463915
+                        ], 
+                        [
+                            -72.677658, 
+                            20.643429
+                        ], 
+                        [
+                            -72.882782, 
+                            20.819035
+                        ], 
+                        [
+                            -73.081512, 
+                            20.991451
+                        ], 
+                        [
+                            -73.275284, 
+                            21.162064
+                        ], 
+                        [
+                            -73.465111, 
+                            21.331867
+                        ], 
+                        [
+                            -73.65123, 
+                            21.50128
+                        ], 
+                        [
+                            -73.833702, 
+                            21.670675
+                        ], 
+                        [
+                            -74.013168, 
+                            21.841171
+                        ], 
+                        [
+                            -74.191414, 
+                            22.01527
+                        ], 
+                        [
+                            -74.37133, 
+                            22.196901
+                        ], 
+                        [
+                            -74.55603, 
+                            22.390562
+                        ], 
+                        [
+                            -74.747345, 
+                            22.599461
+                        ], 
+                        [
+                            -74.944443, 
+                            22.823738
+                        ], 
+                        [
+                            -75.144051, 
+                            23.060226
+                        ], 
+                        [
+                            -75.342072, 
+                            23.304209
+                        ], 
+                        [
+                            -75.535629, 
+                            23.551706
+                        ], 
+                        [
+                            -75.723526, 
+                            23.800556
+                        ], 
+                        [
+                            -75.905502, 
+                            24.049995
+                        ], 
+                        [
+                            -76.081223, 
+                            24.299938
+                        ], 
+                        [
+                            -76.250008, 
+                            24.550764
+                        ], 
+                        [
+                            -76.411057, 
+                            24.803726
+                        ], 
+                        [
+                            -76.563866, 
+                            25.061825
+                        ], 
+                        [
+                            -76.708534, 
+                            25.330473
+                        ], 
+                        [
+                            -76.845314, 
+                            25.616659
+                        ], 
+                        [
+                            -76.973511, 
+                            25.926361
+                        ], 
+                        [
+                            -77.090416, 
+                            26.261909
+                        ], 
+                        [
+                            -77.191399, 
+                            26.621475
+                        ], 
+                        [
+                            -77.271126, 
+                            27.000879
+                        ], 
+                        [
+                            -77.324875, 
+                            27.395889
+                        ], 
+                        [
+                            -77.349304, 
+                            27.803154
+                        ], 
+                        [
+                            -77.342682, 
+                            28.21944
+                        ], 
+                        [
+                            -77.305069, 
+                            28.640139
+                        ], 
+                        [
+                            -77.238388, 
+                            29.058367
+                        ], 
+                        [
+                            -77.146164, 
+                            29.465881
+                        ], 
+                        [
+                            -77.032547, 
+                            29.855688
+                        ], 
+                        [
+                            -76.9011, 
+                            30.224783
+                        ], 
+                        [
+                            -76.753952, 
+                            30.5751
+                        ], 
+                        [
+                            -76.591759, 
+                            30.912029
+                        ], 
+                        [
+                            -76.414307, 
+                            31.24176
+                        ], 
+                        [
+                            -76.221191, 
+                            31.569229
+                        ], 
+                        [
+                            -76.012253, 
+                            31.897406
+                        ], 
+                        [
+                            -75.787781, 
+                            32.227592
+                        ], 
+                        [
+                            -75.548431, 
+                            32.560081
+                        ], 
+                        [
+                            -75.295105, 
+                            32.894688
+                        ], 
+                        [
+                            -75.028755, 
+                            33.23114
+                        ], 
+                        [
+                            -74.750343, 
+                            33.569122
+                        ], 
+                        [
+                            -74.460869, 
+                            33.908325
+                        ], 
+                        [
+                            -74.161255, 
+                            34.248497
+                        ], 
+                        [
+                            -73.852173, 
+                            34.589668
+                        ], 
+                        [
+                            -73.533966, 
+                            34.932236
+                        ], 
+                        [
+                            -73.206947, 
+                            35.27668
+                        ], 
+                        [
+                            -72.871498, 
+                            35.623177
+                        ], 
+                        [
+                            -72.527596, 
+                            35.971458
+                        ], 
+                        [
+                            -72.173279, 
+                            36.321083
+                        ], 
+                        [
+                            -71.802757, 
+                            36.671432
+                        ], 
+                        [
+                            -71.405678, 
+                            37.020706
+                        ], 
+                        [
+                            -70.969116, 
+                            37.363857
+                        ], 
+                        [
+                            -70.482101, 
+                            37.690819
+                        ], 
+                        [
+                            -69.940636, 
+                            37.986717
+                        ], 
+                        [
+                            -69.349716, 
+                            38.234459
+                        ], 
+                        [
+                            -68.721092, 
+                            38.418434
+                        ], 
+                        [
+                            -68.068329, 
+                            38.527222
+                        ], 
+                        [
+                            -67.403366, 
+                            38.554203
+                        ], 
+                        [
+                            -66.737015, 
+                            38.49667
+                        ], 
+                        [
+                            -66.081886, 
+                            38.354698
+                        ], 
+                        [
+                            -65.454399, 
+                            38.13063
+                        ], 
+                        [
+                            -64.873627, 
+                            37.829121
+                        ], 
+                        [
+                            -64.358315, 
+                            37.45726
+                        ], 
+                        [
+                            -63.924259, 
+                            37.024391
+                        ], 
+                        [
+                            -63.583279, 
+                            36.541687
+                        ], 
+                        [
+                            -63.343292, 
+                            36.021614
+                        ], 
+                        [
+                            -63.208839, 
+                            35.477474
+                        ], 
+                        [
+                            -63.181332, 
+                            34.922962
+                        ], 
+                        [
+                            -63.258926, 
+                            34.371941
+                        ], 
+                        [
+                            -63.435532, 
+                            33.838371
+                        ], 
+                        [
+                            -63.698822, 
+                            33.336414
+                        ], 
+                        [
+                            -64.028214, 
+                            32.87999
+                        ], 
+                        [
+                            -64.395187, 
+                            32.481174
+                        ], 
+                        [
+                            -64.774139, 
+                            32.130527
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "hours": 72, 
+                "type": "cone", 
+                "description": "72-hour cone of uncertainty", 
+                "id": "at3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -64.774139, 
+                            32.130527
+                        ], 
+                        [
+                            -65.129356, 
+                            31.846287
+                        ], 
+                        [
+                            -65.445419, 
+                            31.620298
+                        ], 
+                        [
+                            -65.722878, 
+                            31.437313
+                        ], 
+                        [
+                            -65.972061, 
+                            31.280708
+                        ], 
+                        [
+                            -66.20462, 
+                            31.137531
+                        ], 
+                        [
+                            -66.428207, 
+                            31.000427
+                        ], 
+                        [
+                            -66.645706, 
+                            30.866648
+                        ], 
+                        [
+                            -66.857155, 
+                            30.735853
+                        ], 
+                        [
+                            -67.062347, 
+                            30.608051
+                        ], 
+                        [
+                            -67.262535, 
+                            30.482365
+                        ], 
+                        [
+                            -67.460518, 
+                            30.356947
+                        ], 
+                        [
+                            -67.659271, 
+                            30.229851
+                        ], 
+                        [
+                            -67.860413, 
+                            30.100014
+                        ], 
+                        [
+                            -68.063568, 
+                            29.967594
+                        ], 
+                        [
+                            -68.267075, 
+                            29.833591
+                        ], 
+                        [
+                            -68.468872, 
+                            29.699282
+                        ], 
+                        [
+                            -68.666893, 
+                            29.565964
+                        ], 
+                        [
+                            -68.859192, 
+                            29.434889
+                        ], 
+                        [
+                            -69.044281, 
+                            29.307026
+                        ], 
+                        [
+                            -69.221779, 
+                            29.182533
+                        ], 
+                        [
+                            -69.392838, 
+                            29.060524
+                        ], 
+                        [
+                            -69.559418, 
+                            28.939577
+                        ], 
+                        [
+                            -69.722786, 
+                            28.818808
+                        ], 
+                        [
+                            -69.882622, 
+                            28.69849
+                        ], 
+                        [
+                            -70.037552, 
+                            28.579597
+                        ], 
+                        [
+                            -70.186554, 
+                            28.462732
+                        ], 
+                        [
+                            -70.32975, 
+                            28.347622
+                        ], 
+                        [
+                            -70.46788, 
+                            28.233513
+                        ], 
+                        [
+                            -70.601372, 
+                            28.119951
+                        ], 
+                        [
+                            -70.729866, 
+                            28.007092
+                        ], 
+                        [
+                            -70.852448, 
+                            27.895586
+                        ], 
+                        [
+                            -70.968002, 
+                            27.786232
+                        ], 
+                        [
+                            -71.075699, 
+                            27.679455
+                        ], 
+                        [
+                            -71.175491, 
+                            27.574646
+                        ], 
+                        [
+                            -71.268311, 
+                            27.47002
+                        ], 
+                        [
+                            -71.355247, 
+                            27.363636
+                        ], 
+                        [
+                            -71.43631, 
+                            27.254932
+                        ], 
+                        [
+                            -71.509766, 
+                            27.145275
+                        ], 
+                        [
+                            -71.572868, 
+                            27.036913
+                        ], 
+                        [
+                            -71.623352, 
+                            26.931309
+                        ], 
+                        [
+                            -71.660255, 
+                            26.828279
+                        ], 
+                        [
+                            -71.683716, 
+                            26.725975
+                        ], 
+                        [
+                            -71.694183, 
+                            26.620861
+                        ], 
+                        [
+                            -71.691948, 
+                            26.507763
+                        ], 
+                        [
+                            -71.677223, 
+                            26.381166
+                        ], 
+                        [
+                            -71.650665, 
+                            26.237968
+                        ], 
+                        [
+                            -71.613861, 
+                            26.079872
+                        ], 
+                        [
+                            -71.569267, 
+                            25.913116
+                        ], 
+                        [
+                            -71.519577, 
+                            25.745411
+                        ], 
+                        [
+                            -71.466713, 
+                            25.582375
+                        ], 
+                        [
+                            -71.411392, 
+                            25.425982
+                        ], 
+                        [
+                            -71.353165, 
+                            25.275463
+                        ], 
+                        [
+                            -71.290985, 
+                            25.129055
+                        ], 
+                        [
+                            -71.223557, 
+                            24.984941
+                        ], 
+                        [
+                            -71.149658, 
+                            24.841349
+                        ], 
+                        [
+                            -71.068535, 
+                            24.696819
+                        ], 
+                        [
+                            -70.980576, 
+                            24.551067
+                        ], 
+                        [
+                            -70.887573, 
+                            24.405657
+                        ], 
+                        [
+                            -70.79213, 
+                            24.263327
+                        ], 
+                        [
+                            -70.696304, 
+                            24.12619
+                        ], 
+                        [
+                            -70.6007, 
+                            23.994312
+                        ], 
+                        [
+                            -70.50444, 
+                            23.865799
+                        ], 
+                        [
+                            -70.406075, 
+                            23.738064
+                        ], 
+                        [
+                            -70.304245, 
+                            23.60891
+                        ], 
+                        [
+                            -70.197899, 
+                            23.476795
+                        ], 
+                        [
+                            -70.086342, 
+                            23.340759
+                        ], 
+                        [
+                            -69.969505, 
+                            23.200607
+                        ], 
+                        [
+                            -69.848358, 
+                            23.057329
+                        ], 
+                        [
+                            -69.72493, 
+                            22.913126
+                        ], 
+                        [
+                            -69.60173, 
+                            22.770756
+                        ], 
+                        [
+                            -69.48085, 
+                            22.632484
+                        ], 
+                        [
+                            -69.363281, 
+                            22.49931
+                        ], 
+                        [
+                            -69.248932, 
+                            22.370926
+                        ], 
+                        [
+                            -69.137085, 
+                            22.246302
+                        ], 
+                        [
+                            -69.026993, 
+                            22.124359
+                        ], 
+                        [
+                            -68.918221, 
+                            22.004395
+                        ], 
+                        [
+                            -68.810631, 
+                            21.886097
+                        ], 
+                        [
+                            -68.7043, 
+                            21.769421
+                        ], 
+                        [
+                            -68.599388, 
+                            21.654425
+                        ], 
+                        [
+                            -68.496094, 
+                            21.541197
+                        ], 
+                        [
+                            -68.394554, 
+                            21.4298
+                        ], 
+                        [
+                            -68.29483, 
+                            21.320171
+                        ], 
+                        [
+                            -68.196716, 
+                            21.21195
+                        ], 
+                        [
+                            -68.099594, 
+                            21.104332
+                        ], 
+                        [
+                            -68.002457, 
+                            20.996059
+                        ], 
+                        [
+                            -67.904221, 
+                            20.885798
+                        ], 
+                        [
+                            -67.804291, 
+                            20.772757
+                        ], 
+                        [
+                            -67.702835, 
+                            20.657124
+                        ], 
+                        [
+                            -67.600555, 
+                            20.539814
+                        ], 
+                        [
+                            -67.497917, 
+                            20.421625
+                        ], 
+                        [
+                            -67.394562, 
+                            20.30254
+                        ], 
+                        [
+                            -67.289459, 
+                            20.181864
+                        ], 
+                        [
+                            -67.181854, 
+                            20.059168
+                        ], 
+                        [
+                            -67.072067, 
+                            19.935196
+                        ], 
+                        [
+                            -66.961685, 
+                            19.811991
+                        ], 
+                        [
+                            -66.852989, 
+                            19.692238
+                        ], 
+                        [
+                            -66.748108, 
+                            19.57831
+                        ], 
+                        [
+                            -66.648193, 
+                            19.47147
+                        ], 
+                        [
+                            -66.553017, 
+                            19.371475
+                        ], 
+                        [
+                            -66.461075, 
+                            19.276754
+                        ], 
+                        [
+                            -66.370308, 
+                            19.185167
+                        ], 
+                        [
+                            -66.279076, 
+                            19.094967
+                        ], 
+                        [
+                            -66.186661, 
+                            19.005344
+                        ], 
+                        [
+                            -66.09314, 
+                            18.916306
+                        ], 
+                        [
+                            -65.998901, 
+                            18.828127
+                        ], 
+                        [
+                            -65.904106, 
+                            18.740917
+                        ], 
+                        [
+                            -65.808609, 
+                            18.654465
+                        ], 
+                        [
+                            -65.71196, 
+                            18.568287
+                        ], 
+                        [
+                            -65.613541, 
+                            18.481747
+                        ], 
+                        [
+                            -65.512589, 
+                            18.394133
+                        ], 
+                        [
+                            -65.408432, 
+                            18.304802
+                        ], 
+                        [
+                            -65.300735, 
+                            18.213457
+                        ], 
+                        [
+                            -65.18998, 
+                            18.120527
+                        ], 
+                        [
+                            -65.077805, 
+                            18.027407
+                        ], 
+                        [
+                            -64.966721, 
+                            17.936213
+                        ], 
+                        [
+                            -64.859039, 
+                            17.848951
+                        ], 
+                        [
+                            -64.755737, 
+                            17.766489
+                        ], 
+                        [
+                            -64.655731, 
+                            17.68804
+                        ], 
+                        [
+                            -64.556526, 
+                            17.611614
+                        ], 
+                        [
+                            -64.45562, 
+                            17.535194
+                        ], 
+                        [
+                            -64.351944, 
+                            17.457859
+                        ], 
+                        [
+                            -64.246208, 
+                            17.380089
+                        ], 
+                        [
+                            -64.140198, 
+                            17.303205
+                        ], 
+                        [
+                            -64.035538, 
+                            17.228405
+                        ], 
+                        [
+                            -63.932922, 
+                            17.156118
+                        ], 
+                        [
+                            -63.832024, 
+                            17.08601
+                        ], 
+                        [
+                            -63.732174, 
+                            17.017466
+                        ], 
+                        [
+                            -63.632874, 
+                            16.950035
+                        ], 
+                        [
+                            -63.533833, 
+                            16.883469
+                        ], 
+                        [
+                            -63.434685, 
+                            16.817493
+                        ], 
+                        [
+                            -63.334839, 
+                            16.751715
+                        ], 
+                        [
+                            -63.23381, 
+                            16.685781
+                        ], 
+                        [
+                            -63.131504, 
+                            16.619598
+                        ], 
+                        [
+                            -63.028259, 
+                            16.553333
+                        ], 
+                        [
+                            -62.924767, 
+                            16.487349
+                        ], 
+                        [
+                            -62.822071, 
+                            16.422245
+                        ], 
+                        [
+                            -62.721607, 
+                            16.358891
+                        ], 
+                        [
+                            -62.624832, 
+                            16.298204
+                        ], 
+                        [
+                            -62.532585, 
+                            16.240738
+                        ], 
+                        [
+                            -62.444691, 
+                            16.186432
+                        ], 
+                        [
+                            -62.360176, 
+                            16.134697
+                        ], 
+                        [
+                            -62.277733, 
+                            16.084736
+                        ], 
+                        [
+                            -62.196121, 
+                            16.035765
+                        ], 
+                        [
+                            -62.114307, 
+                            15.987165
+                        ], 
+                        [
+                            -62.03167, 
+                            15.93854
+                        ], 
+                        [
+                            -61.948101, 
+                            15.889797
+                        ], 
+                        [
+                            -61.864098, 
+                            15.841146
+                        ], 
+                        [
+                            -61.780464, 
+                            15.792984
+                        ], 
+                        [
+                            -61.69799, 
+                            15.745722
+                        ], 
+                        [
+                            -61.617157, 
+                            15.699631
+                        ], 
+                        [
+                            -61.537983, 
+                            15.654741
+                        ], 
+                        [
+                            -61.459965, 
+                            15.610817
+                        ], 
+                        [
+                            -61.382286, 
+                            15.567411
+                        ], 
+                        [
+                            -61.304108, 
+                            15.524049
+                        ], 
+                        [
+                            -61.225002, 
+                            15.480429
+                        ], 
+                        [
+                            -61.145004, 
+                            15.436516
+                        ], 
+                        [
+                            -61.064365, 
+                            15.392422
+                        ], 
+                        [
+                            -60.983177, 
+                            15.348217
+                        ], 
+                        [
+                            -60.901222, 
+                            15.303823
+                        ], 
+                        [
+                            -60.818245, 
+                            15.259113
+                        ], 
+                        [
+                            -60.734303, 
+                            15.214087
+                        ], 
+                        [
+                            -60.649822, 
+                            15.168923
+                        ], 
+                        [
+                            -60.565315, 
+                            15.123871
+                        ], 
+                        [
+                            -60.481094, 
+                            15.079117
+                        ], 
+                        [
+                            -60.397346, 
+                            15.03478
+                        ], 
+                        [
+                            -60.314316, 
+                            14.990988
+                        ], 
+                        [
+                            -60.232338, 
+                            14.947889
+                        ], 
+                        [
+                            -60.151649, 
+                            14.90559
+                        ], 
+                        [
+                            -60.072277, 
+                            14.864109
+                        ], 
+                        [
+                            -59.994164, 
+                            14.823429
+                        ], 
+                        [
+                            -59.917377, 
+                            14.783578
+                        ], 
+                        [
+                            -59.842121, 
+                            14.744635
+                        ], 
+                        [
+                            -59.7686, 
+                            14.706682
+                        ], 
+                        [
+                            -59.696869, 
+                            14.669751
+                        ], 
+                        [
+                            -59.626869, 
+                            14.633832
+                        ], 
+                        [
+                            -59.558502, 
+                            14.598885
+                        ], 
+                        [
+                            -59.491592, 
+                            14.564818
+                        ], 
+                        [
+                            -59.425781, 
+                            14.531475
+                        ], 
+                        [
+                            -59.360569, 
+                            14.498657
+                        ], 
+                        [
+                            -59.295448, 
+                            14.466194
+                        ], 
+                        [
+                            -59.23019, 
+                            14.43399
+                        ], 
+                        [
+                            -59.164902, 
+                            14.402062
+                        ], 
+                        [
+                            -59.100021, 
+                            14.370548
+                        ], 
+                        [
+                            -59.036217, 
+                            14.339715
+                        ], 
+                        [
+                            -58.974186, 
+                            14.309936
+                        ], 
+                        [
+                            -58.914436, 
+                            14.28157
+                        ], 
+                        [
+                            -58.857109, 
+                            14.254829
+                        ], 
+                        [
+                            -58.801926, 
+                            14.229662
+                        ], 
+                        [
+                            -58.748367, 
+                            14.205791
+                        ], 
+                        [
+                            -58.695869, 
+                            14.182839
+                        ], 
+                        [
+                            -58.644089, 
+                            14.160504
+                        ], 
+                        [
+                            -58.592957, 
+                            14.138672
+                        ], 
+                        [
+                            -58.542713, 
+                            14.117447
+                        ], 
+                        [
+                            -58.493698, 
+                            14.097058
+                        ], 
+                        [
+                            -58.446217, 
+                            14.077719
+                        ], 
+                        [
+                            -58.400288, 
+                            14.059484
+                        ], 
+                        [
+                            -58.355698, 
+                            14.042217
+                        ], 
+                        [
+                            -58.312092, 
+                            14.025672
+                        ], 
+                        [
+                            -58.269222, 
+                            14.009627
+                        ], 
+                        [
+                            -58.227077, 
+                            13.993999
+                        ], 
+                        [
+                            -58.185852, 
+                            13.978844
+                        ], 
+                        [
+                            -58.145752, 
+                            13.964282
+                        ], 
+                        [
+                            -58.106762, 
+                            13.950372
+                        ], 
+                        [
+                            -58.068604, 
+                            13.937042
+                        ], 
+                        [
+                            -58.030849, 
+                            13.924117
+                        ], 
+                        [
+                            -57.99313, 
+                            13.91138
+                        ], 
+                        [
+                            -57.955261, 
+                            13.898615
+                        ], 
+                        [
+                            -57.917259, 
+                            13.885561
+                        ], 
+                        [
+                            -57.879269, 
+                            13.871811
+                        ], 
+                        [
+                            -57.841618, 
+                            13.856734
+                        ], 
+                        [
+                            -57.804829, 
+                            13.839517
+                        ], 
+                        [
+                            -57.769672, 
+                            13.81932
+                        ], 
+                        [
+                            -57.73711, 
+                            13.795506
+                        ], 
+                        [
+                            -57.708138, 
+                            13.767817
+                        ], 
+                        [
+                            -57.683662, 
+                            13.736409
+                        ], 
+                        [
+                            -57.664425, 
+                            13.701793
+                        ], 
+                        [
+                            -57.650963, 
+                            13.664714
+                        ], 
+                        [
+                            -57.643623, 
+                            13.626052
+                        ], 
+                        [
+                            -57.642609, 
+                            13.586753
+                        ], 
+                        [
+                            -57.647926, 
+                            13.547783
+                        ], 
+                        [
+                            -57.659439, 
+                            13.5101
+                        ], 
+                        [
+                            -57.676884, 
+                            13.474627
+                        ], 
+                        [
+                            -57.699844, 
+                            13.44222
+                        ], 
+                        [
+                            -57.727806, 
+                            13.41361
+                        ], 
+                        [
+                            -57.760204, 
+                            13.389328
+                        ], 
+                        [
+                            -57.796463, 
+                            13.369593
+                        ], 
+                        [
+                            -57.836006, 
+                            13.354214
+                        ], 
+                        [
+                            -57.878235, 
+                            13.342598
+                        ], 
+                        [
+                            -57.922539, 
+                            13.333858
+                        ], 
+                        [
+                            -57.968342, 
+                            13.327051
+                        ], 
+                        [
+                            -58.015198, 
+                            13.321398
+                        ], 
+                        [
+                            -58.06295, 
+                            13.316417
+                        ], 
+                        [
+                            -58.111809, 
+                            13.311915
+                        ], 
+                        [
+                            -58.162342, 
+                            13.307899
+                        ], 
+                        [
+                            -58.215279, 
+                            13.30444
+                        ], 
+                        [
+                            -58.27124, 
+                            13.301579
+                        ], 
+                        [
+                            -58.330448, 
+                            13.29932
+                        ], 
+                        [
+                            -58.392628, 
+                            13.297689
+                        ], 
+                        [
+                            -58.4571, 
+                            13.296814
+                        ], 
+                        [
+                            -58.523071, 
+                            13.296935
+                        ], 
+                        [
+                            -58.589863, 
+                            13.298326
+                        ], 
+                        [
+                            -58.657082, 
+                            13.301134
+                        ], 
+                        [
+                            -58.724548, 
+                            13.305286
+                        ], 
+                        [
+                            -58.792297, 
+                            13.310541
+                        ], 
+                        [
+                            -58.860596, 
+                            13.316678
+                        ], 
+                        [
+                            -58.929947, 
+                            13.323697
+                        ], 
+                        [
+                            -59.001129, 
+                            13.331887
+                        ], 
+                        [
+                            -59.074913, 
+                            13.34169
+                        ], 
+                        [
+                            -59.151821, 
+                            13.353447
+                        ], 
+                        [
+                            -59.231865, 
+                            13.367197
+                        ], 
+                        [
+                            -59.314583, 
+                            13.382664
+                        ], 
+                        [
+                            -59.399284, 
+                            13.399419
+                        ], 
+                        [
+                            -59.485306, 
+                            13.417128
+                        ], 
+                        [
+                            -59.572201, 
+                            13.435677
+                        ], 
+                        [
+                            -59.659676, 
+                            13.455168
+                        ], 
+                        [
+                            -59.747581, 
+                            13.475777
+                        ], 
+                        [
+                            -59.835808, 
+                            13.497604
+                        ], 
+                        [
+                            -59.924282, 
+                            13.520622
+                        ], 
+                        [
+                            -60.013023, 
+                            13.544721
+                        ], 
+                        [
+                            -60.102234, 
+                            13.569807
+                        ], 
+                        [
+                            -60.192261, 
+                            13.595858
+                        ], 
+                        [
+                            -60.283447, 
+                            13.622873
+                        ], 
+                        [
+                            -60.375748, 
+                            13.650774
+                        ], 
+                        [
+                            -60.468624, 
+                            13.679356
+                        ], 
+                        [
+                            -60.561295, 
+                            13.708347
+                        ], 
+                        [
+                            -60.653385, 
+                            13.737591
+                        ], 
+                        [
+                            -60.745384, 
+                            13.767191
+                        ], 
+                        [
+                            -60.838722, 
+                            13.79756
+                        ], 
+                        [
+                            -60.935257, 
+                            13.829285
+                        ], 
+                        [
+                            -61.036392, 
+                            13.862863
+                        ], 
+                        [
+                            -61.142548, 
+                            13.89848
+                        ], 
+                        [
+                            -61.253082, 
+                            13.935965
+                        ], 
+                        [
+                            -61.366753, 
+                            13.97492
+                        ], 
+                        [
+                            -61.482159, 
+                            14.01487
+                        ], 
+                        [
+                            -61.597923, 
+                            14.055329
+                        ], 
+                        [
+                            -61.712883, 
+                            14.095858
+                        ], 
+                        [
+                            -61.826305, 
+                            14.136156
+                        ], 
+                        [
+                            -61.938248, 
+                            14.176208
+                        ], 
+                        [
+                            -62.049576, 
+                            14.216307
+                        ], 
+                        [
+                            -62.16153, 
+                            14.256909
+                        ], 
+                        [
+                            -62.27512, 
+                            14.298393
+                        ], 
+                        [
+                            -62.3908, 
+                            14.340928
+                        ], 
+                        [
+                            -62.508518, 
+                            14.384497
+                        ], 
+                        [
+                            -62.627953, 
+                            14.428995
+                        ], 
+                        [
+                            -62.748589, 
+                            14.474276
+                        ], 
+                        [
+                            -62.869812, 
+                            14.520134
+                        ], 
+                        [
+                            -62.991066, 
+                            14.566348
+                        ], 
+                        [
+                            -63.112095, 
+                            14.612761
+                        ], 
+                        [
+                            -63.232887, 
+                            14.659325
+                        ], 
+                        [
+                            -63.353451, 
+                            14.706032
+                        ], 
+                        [
+                            -63.473591, 
+                            14.752815
+                        ], 
+                        [
+                            -63.592991, 
+                            14.799536
+                        ], 
+                        [
+                            -63.711517, 
+                            14.846102
+                        ], 
+                        [
+                            -63.829575, 
+                            14.892658
+                        ], 
+                        [
+                            -63.948318, 
+                            14.939665
+                        ], 
+                        [
+                            -64.069496, 
+                            14.987845
+                        ], 
+                        [
+                            -64.194939, 
+                            15.037995
+                        ], 
+                        [
+                            -64.325989, 
+                            15.090769
+                        ], 
+                        [
+                            -64.463112, 
+                            15.146548
+                        ], 
+                        [
+                            -64.606117, 
+                            15.205498
+                        ], 
+                        [
+                            -64.754776, 
+                            15.267784
+                        ], 
+                        [
+                            -64.909393, 
+                            15.333801
+                        ], 
+                        [
+                            -65.070587, 
+                            15.40407
+                        ], 
+                        [
+                            -65.238205, 
+                            15.478736
+                        ], 
+                        [
+                            -65.410217, 
+                            15.557065
+                        ], 
+                        [
+                            -65.582855, 
+                            15.637478
+                        ], 
+                        [
+                            -65.752289, 
+                            15.718269
+                        ], 
+                        [
+                            -65.916405, 
+                            15.798473
+                        ], 
+                        [
+                            -66.0756, 
+                            15.878214
+                        ], 
+                        [
+                            -66.232018, 
+                            15.958429
+                        ], 
+                        [
+                            -66.388397, 
+                            16.04035
+                        ], 
+                        [
+                            -66.54715, 
+                            16.125092
+                        ], 
+                        [
+                            -66.709763, 
+                            16.213354
+                        ], 
+                        [
+                            -66.876427, 
+                            16.305241
+                        ], 
+                        [
+                            -67.046135, 
+                            16.400265
+                        ], 
+                        [
+                            -67.217285, 
+                            16.4977
+                        ], 
+                        [
+                            -67.388542, 
+                            16.597027
+                        ], 
+                        [
+                            -67.559334, 
+                            16.69825
+                        ], 
+                        [
+                            -67.729935, 
+                            16.801889
+                        ], 
+                        [
+                            -67.901093, 
+                            16.908762
+                        ], 
+                        [
+                            -68.073639, 
+                            17.019701
+                        ], 
+                        [
+                            -68.248001, 
+                            17.135212
+                        ], 
+                        [
+                            -68.423813, 
+                            17.255123
+                        ], 
+                        [
+                            -68.599739, 
+                            17.378471
+                        ], 
+                        [
+                            -68.774124, 
+                            17.503942
+                        ], 
+                        [
+                            -68.946228, 
+                            17.630821
+                        ], 
+                        [
+                            -69.117188, 
+                            17.759743
+                        ], 
+                        [
+                            -69.289482, 
+                            17.892307
+                        ], 
+                        [
+                            -69.464905, 
+                            18.02953
+                        ], 
+                        [
+                            -69.642776, 
+                            18.170422
+                        ], 
+                        [
+                            -69.820175, 
+                            18.312178
+                        ], 
+                        [
+                            -69.994148, 
+                            18.451962
+                        ], 
+                        [
+                            -70.163925, 
+                            18.588722
+                        ], 
+                        [
+                            -70.331261, 
+                            18.723568
+                        ], 
+                        [
+                            -70.4991, 
+                            18.858713
+                        ], 
+                        [
+                            -70.669968, 
+                            18.99617
+                        ], 
+                        [
+                            -70.845261, 
+                            19.137154
+                        ], 
+                        [
+                            -71.025551, 
+                            19.28229
+                        ], 
+                        [
+                            -71.211349, 
+                            19.432192
+                        ], 
+                        [
+                            -71.403656, 
+                            19.587906
+                        ], 
+                        [
+                            -71.603836, 
+                            19.750782
+                        ], 
+                        [
+                            -71.812561, 
+                            19.921608
+                        ], 
+                        [
+                            -72.028458, 
+                            20.099506
+                        ], 
+                        [
+                            -72.247742, 
+                            20.281574
+                        ], 
+                        [
+                            -72.465469, 
+                            20.463915
+                        ], 
+                        [
+                            -72.677658, 
+                            20.643429
+                        ], 
+                        [
+                            -72.882782, 
+                            20.819035
+                        ], 
+                        [
+                            -73.081512, 
+                            20.991451
+                        ], 
+                        [
+                            -73.275284, 
+                            21.162064
+                        ], 
+                        [
+                            -73.465111, 
+                            21.331867
+                        ], 
+                        [
+                            -73.65123, 
+                            21.50128
+                        ], 
+                        [
+                            -73.833702, 
+                            21.670675
+                        ], 
+                        [
+                            -74.013168, 
+                            21.841171
+                        ], 
+                        [
+                            -74.191414, 
+                            22.01527
+                        ], 
+                        [
+                            -74.37133, 
+                            22.196901
+                        ], 
+                        [
+                            -74.55603, 
+                            22.390562
+                        ], 
+                        [
+                            -74.747345, 
+                            22.599461
+                        ], 
+                        [
+                            -74.944443, 
+                            22.823738
+                        ], 
+                        [
+                            -75.144051, 
+                            23.060226
+                        ], 
+                        [
+                            -75.342072, 
+                            23.304209
+                        ], 
+                        [
+                            -75.535629, 
+                            23.551706
+                        ], 
+                        [
+                            -75.723526, 
+                            23.800556
+                        ], 
+                        [
+                            -75.905502, 
+                            24.049995
+                        ], 
+                        [
+                            -76.081223, 
+                            24.299938
+                        ], 
+                        [
+                            -76.250008, 
+                            24.550764
+                        ], 
+                        [
+                            -76.411057, 
+                            24.803726
+                        ], 
+                        [
+                            -76.563866, 
+                            25.061825
+                        ], 
+                        [
+                            -76.708534, 
+                            25.330473
+                        ], 
+                        [
+                            -76.845314, 
+                            25.616659
+                        ], 
+                        [
+                            -76.973511, 
+                            25.926361
+                        ], 
+                        [
+                            -77.090416, 
+                            26.261909
+                        ], 
+                        [
+                            -77.191399, 
+                            26.621475
+                        ], 
+                        [
+                            -77.271126, 
+                            27.000879
+                        ], 
+                        [
+                            -77.324875, 
+                            27.395889
+                        ], 
+                        [
+                            -77.349304, 
+                            27.803154
+                        ], 
+                        [
+                            -77.342682, 
+                            28.21944
+                        ], 
+                        [
+                            -77.305069, 
+                            28.640139
+                        ], 
+                        [
+                            -77.238388, 
+                            29.058367
+                        ], 
+                        [
+                            -77.146164, 
+                            29.465881
+                        ], 
+                        [
+                            -77.032547, 
+                            29.855688
+                        ], 
+                        [
+                            -76.9011, 
+                            30.224783
+                        ], 
+                        [
+                            -76.753952, 
+                            30.5751
+                        ], 
+                        [
+                            -76.591759, 
+                            30.912029
+                        ], 
+                        [
+                            -76.414307, 
+                            31.24176
+                        ], 
+                        [
+                            -76.221191, 
+                            31.569229
+                        ], 
+                        [
+                            -76.012253, 
+                            31.897406
+                        ], 
+                        [
+                            -75.787781, 
+                            32.227592
+                        ], 
+                        [
+                            -75.548431, 
+                            32.560081
+                        ], 
+                        [
+                            -75.295105, 
+                            32.894688
+                        ], 
+                        [
+                            -75.028755, 
+                            33.23114
+                        ], 
+                        [
+                            -74.750343, 
+                            33.569122
+                        ], 
+                        [
+                            -74.460869, 
+                            33.908325
+                        ], 
+                        [
+                            -74.161255, 
+                            34.248497
+                        ], 
+                        [
+                            -73.852173, 
+                            34.589668
+                        ], 
+                        [
+                            -73.533966, 
+                            34.932236
+                        ], 
+                        [
+                            -73.206947, 
+                            35.27668
+                        ], 
+                        [
+                            -72.871498, 
+                            35.623177
+                        ], 
+                        [
+                            -72.527596, 
+                            35.971458
+                        ], 
+                        [
+                            -72.173279, 
+                            36.321083
+                        ], 
+                        [
+                            -71.802757, 
+                            36.671432
+                        ], 
+                        [
+                            -71.405678, 
+                            37.020706
+                        ], 
+                        [
+                            -70.969116, 
+                            37.363857
+                        ], 
+                        [
+                            -70.482101, 
+                            37.690819
+                        ], 
+                        [
+                            -69.940636, 
+                            37.986717
+                        ], 
+                        [
+                            -69.349716, 
+                            38.234459
+                        ], 
+                        [
+                            -68.721092, 
+                            38.418434
+                        ], 
+                        [
+                            -68.068329, 
+                            38.527222
+                        ], 
+                        [
+                            -67.403366, 
+                            38.554203
+                        ], 
+                        [
+                            -66.737015, 
+                            38.49667
+                        ], 
+                        [
+                            -66.081886, 
+                            38.354698
+                        ], 
+                        [
+                            -65.454399, 
+                            38.13063
+                        ], 
+                        [
+                            -64.873627, 
+                            37.829121
+                        ], 
+                        [
+                            -64.358315, 
+                            37.45726
+                        ], 
+                        [
+                            -63.924259, 
+                            37.024391
+                        ], 
+                        [
+                            -63.583279, 
+                            36.541687
+                        ], 
+                        [
+                            -63.343292, 
+                            36.021614
+                        ], 
+                        [
+                            -63.208839, 
+                            35.477474
+                        ], 
+                        [
+                            -63.181332, 
+                            34.922962
+                        ], 
+                        [
+                            -63.258926, 
+                            34.371941
+                        ], 
+                        [
+                            -63.435532, 
+                            33.838371
+                        ], 
+                        [
+                            -63.698822, 
+                            33.336414
+                        ], 
+                        [
+                            -64.028214, 
+                            32.87999
+                        ], 
+                        [
+                            -64.395187, 
+                            32.481174
+                        ], 
+                        [
+                            -64.774139, 
+                            32.130527
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "hours": 120, 
+                "type": "cone", 
+                "description": "120-hour cone of uncertainty", 
+                "id": "at3"
+            }
+        }
+    ], 
+    "metadata": {
+        "datetime": "2014-08-01T08:00:00+04:00", 
+        "storm_name": "Bertha", 
+        "pressure_mb": 1008.0, 
+        "storm_type": "Tropical Storm", 
+        "atcf_id": "AT3", 
+        "datetime_str": "8:00 AM AST Fri Aug 1", 
+        "headline": "...HURRICANE HUNTER AIRCRAFT ABOUT TO INVESTIGATE BERTHA... ...TROPICAL STORM WARNING ISSUED FOR MARTINIQUE...", 
+        "longitude": -57.9, 
+        "wallet": "AT3", 
+        "latitude": 13.6, 
+        "max_winds_mph": 45, 
+        "movement": "WNW at 20 mph"
+    }
+}
