@@ -88,11 +88,11 @@ class Parser():
             placemark['latitude'] = self.get_element_float(placemark_el, ns + 'lat')
             placemark['longitude'] = self.get_element_float(placemark_el, ns + 'lon')
             placemark['name'] = self.get_element_text(placemark_el, ns + 'stormName')
-            placemark['number'] = self.get_element_int(placemark_el, ns + 'stormNum')
+            placemark['storm_number'] = self.get_element_int(placemark_el, ns + 'stormNum')
             placemark['region'] = self.get_element_text(placemark_el, ns + 'basin')
             placemark['intensity_mph'] = self.get_element_int(placemark_el, ns + 'intensityMPH')
             placemark['intensity_kph'] = self.get_element_int(placemark_el, ns + 'intensityKPH')
-            placemark['pressure'] = self.get_element_int(placemark_el, ns + 'minSeaLevelPres')
+            placemark['pressure_mb'] = self.get_element_float(placemark_el, ns + 'minSeaLevelPres')
 
             # Get the date string and cast it
             datetime_str = self.get_element_text(placemark_el, ns + 'atcfdtg')

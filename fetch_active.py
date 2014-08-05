@@ -142,10 +142,12 @@ if __name__ == "__main__":
         features = []
 
         # Create a point feature for each best track point
-        for item_dict in storm_dict['best_track_points']:
+        for index, item_dict in enumerate(storm_dict['best_track_points']):
             props = {
                 'type': 'track_point',
-                'id': storm_id,
+                'storm_id': storm_id,
+                'description': 'Past Track Point',
+                'marker-color': '#cccccc',
             }
             joined_props = dict(props.items() + item_dict.items())
             new_feature = parser.create_point_feature(item_dict['longitude'], item_dict['latitude'], joined_props)
@@ -155,17 +157,24 @@ if __name__ == "__main__":
         points = [(d['longitude'], d['latitude']) for d in storm_dict['best_track_points']]
         props = {
             'type': 'track_line',
-            'id': storm_id,
+            'storm_id': storm_id,
         }
         best_track_linestring_feature = parser.create_linestring_feature(points, props)
         features.append(best_track_linestring_feature)
 
         # Create a point feature for each forecast track point
-        for item_dict in storm_dict['forecast_track_points']:
+        for index, item_dict in enumerate(storm_dict['forecast_track_points']):
             props = {
                 'type': 'forecast_track_point',
-                'id': storm_id,
+                'storm_id': storm_id,
+                'description': 'Forecast Track Point',
+                'marker-color': '#000000',
             }
+
+            # If it's the first point, that is the current position
+            if index == 0:
+                props['marker-color'] = "#FF7F00"
+            
             joined_props = dict(props.items() + item_dict.items())
             new_feature = parser.create_point_feature(item_dict['longitude'], item_dict['latitude'], joined_props)
             features.append(new_feature)
@@ -174,7 +183,7 @@ if __name__ == "__main__":
         points = [(d['longitude'], d['latitude']) for d in storm_dict['forecast_track_points']]
         props = {
             'type': 'forecast_line',
-            'id': storm_id,
+            'storm_id': storm_id,
         }
         forecast_linestring_feature = parser.create_linestring_feature(points, props)
         features.append(forecast_linestring_feature)
@@ -182,10 +191,11 @@ if __name__ == "__main__":
         # Create the polygon for the 72-hour cone of uncertainty
         props = { 
             'hours': 72, 
-            'description': 
-            '72-hour cone of uncertainty',
+            'description': '72-hour cone of uncertainty',
             'type': 'cone',
-            'id': storm_id,
+            'storm_id': storm_id,
+            'fill': '#59D2DE',
+            'stroke': '#0077FF',
         }
         cone_72_polygon_feature = parser.create_polygon_feature(storm_dict['forecast_cone_72_hour'], props)
 
@@ -195,10 +205,12 @@ if __name__ == "__main__":
 
         # Create the polygon for the 120-hour cone of uncertainty
         props = { 
-            'hours': 120, 
+            'hours': 120,
             'description': '120-hour cone of uncertainty',
             'type': 'cone',
-            'id': storm_id,
+            'storm_id': storm_id,
+            'fill': '#59D2DE',
+            'stroke': '#0077FF',
         }
         cone_120_polygon_feature = parser.create_polygon_feature(storm_dict['forecast_cone_120_hour'], props)
         
@@ -214,7 +226,6 @@ if __name__ == "__main__":
             'atcf_id': storm_dict['atcf_id'],
             'latitude': storm_dict['latitude'],
             'longitude': storm_dict['longitude'],
-            'datetime_str': storm_dict['datetime_str'],
             'datetime': storm_dict['datetime'],
             'movement': storm_dict['movement'],
             'pressure_mb': storm_dict['pressure_mb'],
